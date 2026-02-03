@@ -10,9 +10,4 @@ Usage
 - In the ComfyUI node editor, add the "Group Bypasser" node to your graph.
 - Connect inputs and outputs like any other node to bypass group behavior where needed.
 
-Files
-- web/group_bypasser.js — frontend node code
-- __init__.py — backend initializer
-- LICENSE — project license
 
-If something doesn't work, open an issue or check the files above for details.
